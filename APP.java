@@ -100,6 +100,7 @@ public class APP {
                 case 4://pemilik
                     break;
                 case 5://kembali
+                    System.out.println("Terimakasih....");
                     break;
             }
         }while(pilih!=5);
